@@ -9,148 +9,148 @@
     </message>
     <message>
         <source>OBD ELM327 car diagnostic reader application for Sailfish OS</source>
-        <translation type="unfinished"></translation>
+        <translation>OBD ELM327 Lettore di diagnostica per automobili per Sailfish OS</translation>
     </message>
     <message>
         <source>License: GPLv3</source>
-        <translation type="unfinished"></translation>
+        <translation>License: GPLv3</translation>
     </message>
     <message>
         <source>Source code:</source>
-        <translation type="unfinished"></translation>
+        <translation>Codice Sorgente:</translation>
     </message>
     <message>
         <source>Date: </source>
-        <translation type="unfinished"></translation>
+        <translation>Data :</translation>
     </message>
     <message>
         <source>Feedback, bugs:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bugs, da comunicare</translation>
     </message>
 </context>
 <context>
     <name>Dyn1Page</name>
     <message>
         <source>Dynamic Values 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Valori Dinamici 1</translation>
     </message>
     <message>
         <source>Cycle time: </source>
-        <translation type="unfinished"></translation>
+        <translation>Ciclo di vita</translation>
     </message>
     <message>
         <source>The more parameters are requested, the higher the cycle time.&lt;br&gt;To get a more responsive cycle time, go to settings and reduce amount of parameters for this page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sono richiesti molti parametri, La parte più alta del ciclo di lettura.&lt;br&gt; Per Avere una risposta immediata, andate su parametri di questa pagina e ridurre i tempi</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametri</translation>
     </message>
 </context>
 <context>
     <name>Dyn2Page</name>
     <message>
         <source>Dynamic Values 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Valori Dinamici 2</translation>
     </message>
     <message>
         <source>The more parameters are requested, the higher the cycle time.&lt;br&gt;To get a more responsive cycle time, go to settings and reduce amount of parameters for this page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sono richiesti molti parametri, La parte più alta del ciclo di lettura.&lt;br&gt; Per Avere una risposta immediata, andate su parametri di questa pagina e ridurre i tempi</translation>
     </message>
     <message>
         <source>Cycle time: </source>
-        <translation type="unfinished"></translation>
+        <translation>Ciclo di vita:</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametri</translation>
     </message>
 </context>
 <context>
     <name>Dyn3Page</name>
     <message>
         <source>Dynamic Values 3</source>
-        <translation type="unfinished"></translation>
+        <translation>Valori Dinamici 3</translation>
     </message>
     <message>
         <source>The more parameters are requested, the higher the cycle time.&lt;br&gt;To get a more responsive cycle time, go to settings and reduce amount of parameters for this page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sono richiesti molti parametri, La parte più alta del ciclo di lettura.&lt;br&gt; Per Avere una risposta immediata, andate su parametri di questa pagina e ridurre i tempi</translation>
     </message>
     <message>
         <source>Cycle time: </source>
-        <translation type="unfinished"></translation>
+        <translation>Ciclo di Vita:</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Parametri</translation>
     </message>
 </context>
 <context>
     <name>ErrorPage</name>
     <message>
         <source>Error Informations</source>
-        <translation type="unfinished"></translation>
+        <translation>Informazioni d'errore</translation>
     </message>
     <message>
         <source>Your vehicle does not support the reading of errors.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il tuo Veicolo non sopporta la lettura dei messaggi</translation>
     </message>
     <message>
         <source>No errors found!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessun Errore Trovato !</translation>
     </message>
     <message>
         <source>Error codes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Codici di Errore:</translation>
     </message>
     <message>
         <source>Your vehicle has </source>
-        <translation type="unfinished"></translation>
+        <translation>Il tuo Veicolo Ha</translation>
     </message>
     <message>
         <source> errors!</source>
-        <translation type="unfinished"></translation>
+        <translation> errori!</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiorna</translation>
     </message>
     <message>
         <source>Trouble codes successfully cleared.</source>
-        <translation type="unfinished"></translation>
+        <translation>I errori sono stati cancellati con Successo.. !</translation>
     </message>
     <message>
         <source>Clear Trouble Codes</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminazione Errori...</translation>
     </message>
     <message>
         <source>Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sei Sicuro ?</translation>
     </message>
     <message>
         <source>NOTE: if you proceed, all trouble code information is immediately lost!&lt;br&gt;Your vehicle may run poorly for a short time, while it performs a recalibration.</source>
-        <translation type="unfinished"></translation>
+        <translation>Attenzione: Se si vuol procedere, Tutti gli errori verranno persi!&lt;br&gt; Il veicolo può funzionare male per un breve periodo di tempo, mentre si esegue una ricalibrazione.</translation>
     </message>
     <message>
         <source>Reading values...</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettura Parametri</translation>
     </message>
     <message>
         <source>Do not show this again</source>
-        <translation type="unfinished"></translation>
+        <translation>Non visualizzare Ancora</translation>
     </message>
     <message>
         <source>Do not show this warning again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non mostrarmi questo avviso ancora</translation>
     </message>
     <message>
         <source>Could not clear trouble codes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile Cancellare Errori</translation>
     </message>
     <message>
         <source>Error ID&apos;s: 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Errori ID&apos;s: </translation>
     </message>
 </context>
 <context>
